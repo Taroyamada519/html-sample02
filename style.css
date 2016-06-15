@@ -7,12 +7,12 @@ body{
     height: 100%;
     margin: 0;
 }
-.bg {
+.bg1 {
     display: table;
     height: 100%;
     width: 100%;
     position: relative;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('./bg01.jpg');
+    background-image: url('./bg01.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -28,7 +28,7 @@ body{
     height: 100%;
     width: 100%;
     position: relative;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('./bg02.jpg');
+    background-image: url('./bg02.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
